@@ -78,8 +78,4 @@ Reproducible analysis using R/Bioconductor
 Biological interpretation of genomic data
 
 
-`NCBI → Sequence Retrieval → Sequence Analysis → GRanges → Gene Annotation → Biological Interpretation`
 
-**Key skills:** `R` · `Bioconductor` · `Biostrings` · `rentrez` · `GenomicRanges` · `AnnotationDbi` · `NCBI` · `DNA Sequence Analysis` · `Genomic Annotation`
-
-This is a good project for your GitHub because it shows **more than just R syntax**—it demonstrates how you can use programming to answer actual biological questions, which is particularly relevant to your developing bioinformatics profile.
