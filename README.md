@@ -1,12 +1,12 @@
 R and Bioconductor - DNA sequence and genomic location 
 
-These two projects use R and Bioconductor to explore the BRCA1 and EGFR gene at both the DNA sequence and genomic-location levels. It demonstrates how to retrieve biological sequence data from NCBI, perform basic sequence analysis, represent genomic coordinates, and retrieve gene annotations using Bioconductor databases.
+These two projects use R and Bioconductor to explore the BRCA1 and EGFR gene at both the DNA sequence and genomic location levels. It demonstrates how to retrieve biological sequence data from NCBI, perform basic sequence analysis, represent genomic coordinates, and retrieve gene annotations using Bioconductor databases.
 
 Overview
 
 BRCA1 and EGFR Gene Sequence & Genomic Annotation Analysis
 
-A beginner-level bioinformatics project focused on analyzing the BRCA1 (Breast Cancer 1) gene using R and Bioconductor. The project combines NCBI sequence retrieval, DNA sequence manipulation, pattern searching, genomic coordinate analysis, and gene annotation to demonstrate fundamental computational biology workflows.
+A beginner-level bioinformatics project focused on analyzing the BRCA1 (Breast Cancer 1) and EGFR (Lung Cancer) using R and Bioconductor. The project combines NCBI sequence retrieval, DNA sequence manipulation, pattern searching, genomic coordinate analysis, and gene annotation to demonstrate fundamental computational biology workflows.
 
 Workflow
 
