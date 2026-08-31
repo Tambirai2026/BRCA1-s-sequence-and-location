@@ -37,45 +37,45 @@ Summarized what the sequence characteristics and genomic location reveal about B
 
 ### Concepts & Skills Covered
 
-Programming & R
-R programming fundamentals
-Functions and objects
-Working with biological data in R
-Installing and loading Bioconductor packages
+* Programming & R
+* R programming fundamentals
+* Functions and objects
+* Working with biological data in R
+* Installing and loading Bioconductor packages
 
 ### Sequence Analysis
 
-DNA sequence retrieval
-FASTA files
-Sequence length calculation
-Subsequence extraction
-Pattern searching
-Reverse-complement analysis
+* DNA sequence retrieval
+* FASTA files
+* Sequence length calculation
+* Subsequence extraction
+* Pattern searching
+* Reverse-complement analysis
 
 ### Genomic Analysis
 
-`GRanges` objects
- Chromosomal coordinates
- Genomic intervals
- Strand information
- Genomic feature width
+* `GRanges` objects
+* Chromosomal coordinates
+* Genomic intervals
+* Strand information
+* Genomic feature width
 
 ### Biological Databases & Annotation
 
-NCBI Entrez
-`rentrez`
- `AnnotationDbi`
- `org.Hs.eg.db`
- ENTREZ Gene identifiers
- Gene annotation
+* NCBI Entrez
+* rentrez`
+* `AnnotationDbi`
+*`org.Hs.eg.db`
+* ENTREZ Gene identifiers
+* Gene annotation
 
 ### Bioinformatics Skills
 
-NCBI data retrieval
-Computational DNA analysis
-Genome annotation
-Reproducible analysis using R/Bioconductor
-Biological interpretation of genomic data
+* NCBI data retrieval
+* Computational DNA analysis
+* Genome annotation
+* Reproducible analysis using R/Bioconductor
+* Biological interpretation of genomic data
 
 
 
