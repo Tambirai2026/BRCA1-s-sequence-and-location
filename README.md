@@ -1,14 +1,14 @@
-R and Bioconductor - DNA sequence and genomic location 
+# R and Bioconductor - DNA sequence and genomic location 
 
 These two projects use R and Bioconductor to explore the BRCA1 and EGFR gene at both the DNA sequence and genomic location levels. It demonstrates how to retrieve biological sequence data from NCBI, perform basic sequence analysis, represent genomic coordinates, and retrieve gene annotations using Bioconductor databases.
 
-Overview
+# Overview
 
 BRCA1 and EGFR Gene Sequence & Genomic Annotation Analysis
 
 A beginner-level bioinformatics project focused on analyzing the BRCA1 (Breast Cancer 1) and EGFR (Lung Cancer) using R and Bioconductor. The project combines NCBI sequence retrieval, DNA sequence manipulation, pattern searching, genomic coordinate analysis, and gene annotation to demonstrate fundamental computational biology workflows.
 
-Workflow
+### Workflow
 
 1. Retrieve BRCA1 and EGFR sequence
 
@@ -35,7 +35,7 @@ Used `AnnotationDbi` and `org.Hs.eg.db` to identify the BRCA1 ENTREZ Gene ID and
 
 Summarized what the sequence characteristics and genomic location reveal about BRCA1 and EGFR.
 
-Concepts & Skills Covered
+### Concepts & Skills Covered
 
 Programming & R
 R programming fundamentals
@@ -43,7 +43,7 @@ Functions and objects
 Working with biological data in R
 Installing and loading Bioconductor packages
 
-Sequence Analysis
+### Sequence Analysis
 
 DNA sequence retrieval
 FASTA files
@@ -52,7 +52,7 @@ Subsequence extraction
 Pattern searching
 Reverse-complement analysis
 
-Genomic Analysis
+### Genomic Analysis
 
 `GRanges` objects
  Chromosomal coordinates
@@ -60,7 +60,7 @@ Genomic Analysis
  Strand information
  Genomic feature width
 
-Biological Databases & Annotation
+### Biological Databases & Annotation
 
 NCBI Entrez
 `rentrez`
@@ -69,7 +69,7 @@ NCBI Entrez
  ENTREZ Gene identifiers
  Gene annotation
 
-Bioinformatics Skills
+### Bioinformatics Skills
 
 NCBI data retrieval
 Computational DNA analysis
